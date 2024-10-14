@@ -35,7 +35,7 @@ dependencies = [
   # Keep jax, jaxlib versions in sync with .github/workflows/tests.yml
   "jax",
   "jaxlib",
-  "nump",
+  "numpy",
   "etils[epy]",
 ]
 
